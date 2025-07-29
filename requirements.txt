@@ -1,0 +1,12 @@
+torch
+transformers
+faiss-cpu
+pandas
+numpy
+scikit-learn
+langchain-community
+ollama
+gradio
+datasets
+arabic-reshaper
+python-bidi
